@@ -1,0 +1,9 @@
+/// @description Initialize
+text = "";
+image_blend = global.blend;
+am_pause = false;
+xscl = 1;
+yscl = 1;
+yoff = 0;
+zoom = 1;
+depth = -room_height-7;
